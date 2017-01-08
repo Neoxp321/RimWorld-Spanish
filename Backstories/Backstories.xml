@@ -8,41 +8,41 @@
 Una vida así requiere una toma de todos los oficios en tareas básicas manuales.</desc>
 	</ColonySettler43>
 	<MedievalFarmOaf58>
-		<title>Medieval farm oaf</title>
-		<titleShort>Oaf</titleShort>
-		<desc>Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.
+		<title>Zoquete de granja medieval</title>
+		<titleShort>Zoquete</titleShort>
+		<desc>Labrar, arar, guiar carros de bueyes, empujar carretillas. Cavar zanjas, plantar semillas, prediciendo la cosecha.
 
-Medieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities.</desc>
+Los granjeros medievales no están educados en el sentido habitual, pero saben mucho sobre cultivar plantas sin tecnología. Dicho esto, una vida así deja a uno esencialmente incapaz de participar en actividades intelectuales o que requieran de tecnología.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
-		<title>Medieval lord</title>
+		<title>Señor medieval</title>
 		<titleShort>Noble</titleShort>
-		<desc>NAME was a lord on a preindustrial planet. HECAP went to parties, managed the underlings, and even learned some swordplay.
+		<desc>NAME era un señor en un planeta pre-industrial. HECAP iba a fiestas, gestionaba a sus subordinados, e incluso aprendió a manejarse con la espada.
 
-HISCAP soft hands did not hold a work tool during that entire time. HECAP considers manual labor to be beneath HIM.</desc>
+HISCAP suaves manos no tocaron una herramienta de trabajo en todo ese tiempo. HECAP considera que el trabajo manual está por debajo de HIM.</desc>
 	</MedievalLord20>
 	<UrbworldEntrepreneur55>
-		<title>Urbworld entrepreneur</title>
-		<titleShort>Entrepreneur</titleShort>
-		<desc>In the urbworlds, most suffer. But someone has to run the corporations.
+		<title>Emprendedor urbanita</title>
+		<titleShort>Emprendedor</titleShort>
+		<desc>En los mundos urbanos, la mayoría sufre. Pero alguien tiene que dirigir las empresas.
 
-NAME learned the skills of the trade - greasing palms and technical analysis. HECAP is a sociointellectual machine.</desc>
+NAME aprendió las habilidades del comercio - greasing palms and technical analysis. HECAP es una máquina socio-intelectual.</desc>
 	</UrbworldEntrepreneur55>
 	<DeepSpaceMiner11>
-		<title>Deep space miner</title>
-		<titleShort>Miner</titleShort>
-		<desc>NAME did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. HECAP used HIS hands-on industrial skills daily - and wasn't bad in a bar fight either.</desc>
+		<title>Minero de espacio profundo</title>
+		<titleShort>Minero</titleShort>
+		<desc>NAME hacía el sudoroso y sucio trabajo de extraer metal de asteroides en una plataforma de perforación de espacio profundo. HECAP usaba diariamente HIS habilidades prácticas industiales - y tampoco le iba mal en una pelea de bar.</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
-		<title>Navy scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>Interstellar warfare is won by technology, so imperial navies are always on the peak of modern research. Even better, they have first access to Transcendent artifacts because they find them in space.
+		<title>Científico de la marina</title>
+		<titleShort>Científico</titleShort>
+		<desc>Las guerras interestelares se ganan con tecnología, por lo que los navíos imperiales son siempre el punto álgido de la tecnología. Y aún mejor, tienen primer acceso a artefactos Trascendentales ya que los encuentran en el espacio.
 
-NAME worked in a navy lab.</desc>
+NAME trabajó en un laboratorio de la marina.</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
-		<title>Military commissar</title>
-		<titleShort>Commissar</titleShort>
+		<title>Comisario militar</title>
+		<titleShort>Comisario</titleShort>
 		<desc>NAME was an internal spymaster in an Imperial army battalion. HECAP made sure that the men were loyal, and did not fall back unless ordered. This made HIM unpopular, but HE gained great skill at detecting the slightest dishonesty.</desc>
 	</MilitaryCommissar49>
 	<SpacePirate69>
